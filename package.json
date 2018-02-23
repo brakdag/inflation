@@ -1,0 +1,31 @@
+{
+  "name": "inflation",
+  "version": "1.0.0",
+  "description": "inflation simulator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/inflation.git"
+  },
+  "keywords": [
+    "inflation",
+    "simulator",
+    "node"
+  ],
+  "author": "Gustavo David Ferreyra/brakdag@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/inflation/issues"
+  },
+  "homepage": "https://github.com/brakdag/inflation#readme",
+  "dependencies": {
+    "mocha": "^5.0.1"
+  }
+}
